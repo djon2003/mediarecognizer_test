@@ -1,0 +1,7 @@
+**/obj/
+**/bin/
+MediaRecognizer/ffmpeg.exe
+MediaRecognizer/ffprobe.exe
+**/.vs/
+MediaRecognizer/external/
+MediaRecognizer/output/
